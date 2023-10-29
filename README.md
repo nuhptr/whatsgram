@@ -4,6 +4,8 @@ This is a simple Instagram clone built with React + Vite + Appwrite.
 
 <!-- Image Section -->
 
+<!-- Timeline: 52:59 -->
+
 ## Features
 
 -  [x] Authentication
