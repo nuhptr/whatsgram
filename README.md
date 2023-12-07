@@ -1,4 +1,4 @@
-# Lookgram - Instagram Clone
+# Whatsgram - Instagram Clone
 
 This is a simple Instagram clone built with React + Vite + Appwrite.
 
@@ -21,19 +21,19 @@ This is a simple Instagram clone built with React + Vite + Appwrite.
 ### Dependencies
 
 -  [Tailwindcss Official Plugin](https://tailwindcss.com/docs/plugins#official-plugins)
--  [Tailwindcss](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development. (npm install -D tailwindcss@latest postcss@latest autoprefixer@latest, and npx tailwindcss init -p)
--  [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling (npm create vite@latest lookgram --template react)
--  [Tailwindcss Animate](https://www.npmjs.com/package/tailwindcss-animate) - A plugin to generate all animate.css animations in tailwindcss. (npm install -D tailwindcss-animatecss)
--  [React Router Dom](https://reactrouter.com/web/guides/quick-start) - Declarative routing for React (npm install react-router-dom)
+-  [Tailwindcss](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development. `pnpm install -D tailwindcss@latest postcss@latest autoprefixer@latest, and pnpm tailwindcss init -p`
+-  [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling `pnpm create vite@latest ./ --template react`
+-  [Tailwindcss Animate](https://www.npmjs.com/package/tailwindcss-animate) - A plugin to generate all animate.css animations in tailwindcss. `pnpm install -D tailwindcss-animatecss`
+-  [React Router Dom](https://reactrouter.com/web/guides/quick-start) - Declarative routing for React `pnpm install react-router-dom`
 
 ============== SHADCN =================
 
 -  [Official Installation Shadcn Using Vite](https://ui.shadcn.com/docs/installation/vite)
-   -  npx shadcn-ui@latest init
+   -  `pnpm shadcn-ui@latest init`
    -  src/globals.css (modify this path when install shadcn)
-   -  npx shadcn-ui@latest add [component-name]
+   -  `pnpm shadcn-ui@latest add [component-name]`
 -  [@types/node](https://www.npmjs.com/package/@types/node) - TypeScript definitions for Node.js
-   -  npm install -D @types/node
+   -  `pnpm install -D @types/node`
 
 ### Installing
 
