@@ -21,10 +21,12 @@ This is a simple Instagram clone built with React + Vite + Appwrite.
 ### Dependencies
 
 -  [Tailwindcss Official Plugin](https://tailwindcss.com/docs/plugins#official-plugins)
--  [Tailwindcss](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development. `pnpm add -D tailwindcss@latest postcss@latest autoprefixer@latest, and pnpm tailwindcss init -p`
--  [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling `pnpm create vite@latest ./ --template react`
--  [Tailwindcss Animate](https://www.npmjs.com/package/tailwindcss-animate) - A plugin to generate all animate.css animations in tailwindcss. `pnpm add -D tailwindcss-animatecss`
--  [React Router Dom](https://reactrouter.com/web/guides/quick-start) - Declarative routing for React `pnpm add react-router-dom`
+-  [Tailwindcss](https://tailwindcss.com/)
+   -  `pnpm add -D tailwindcss@latest postcss@latest autoprefixer@latest`
+   -  `pnpm tailwindcss init -p`
+-  [Vite](https://vitejs.dev/) - `pnpm create vite@latest ./`
+-  [Tailwindcss Animate](https://www.npmjs.com/package/tailwindcss-animate) - `pnpm add -D tailwindcss-animatecss`
+-  [React Router Dom](https://reactrouter.com/web/guides/quick-start) - `pnpm add react-router-dom`
 
 ========= SHADCN DEPENDENCIES =========
 
