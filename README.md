@@ -21,19 +21,19 @@ This is a simple Instagram clone built with React + Vite + Appwrite.
 ### Dependencies
 
 -  [Tailwindcss Official Plugin](https://tailwindcss.com/docs/plugins#official-plugins)
--  [Tailwindcss](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development. `pnpm install -D tailwindcss@latest postcss@latest autoprefixer@latest, and pnpm tailwindcss init -p`
+-  [Tailwindcss](https://tailwindcss.com/) - A utility-first CSS framework for rapid UI development. `pnpm add -D tailwindcss@latest postcss@latest autoprefixer@latest, and pnpm tailwindcss init -p`
 -  [Vite](https://vitejs.dev/) - Next Generation Frontend Tooling `pnpm create vite@latest ./ --template react`
--  [Tailwindcss Animate](https://www.npmjs.com/package/tailwindcss-animate) - A plugin to generate all animate.css animations in tailwindcss. `pnpm install -D tailwindcss-animatecss`
--  [React Router Dom](https://reactrouter.com/web/guides/quick-start) - Declarative routing for React `pnpm install react-router-dom`
+-  [Tailwindcss Animate](https://www.npmjs.com/package/tailwindcss-animate) - A plugin to generate all animate.css animations in tailwindcss. `pnpm add -D tailwindcss-animatecss`
+-  [React Router Dom](https://reactrouter.com/web/guides/quick-start) - Declarative routing for React `pnpm add react-router-dom`
 
-============== SHADCN =================
+========= SHADCN DEPENDENCIES =========
 
 -  [Official Installation Shadcn Using Vite](https://ui.shadcn.com/docs/installation/vite)
    -  `pnpm shadcn-ui@latest init`
    -  src/globals.css (modify this path when install shadcn)
    -  `pnpm shadcn-ui@latest add [component-name]`
 -  [@types/node](https://www.npmjs.com/package/@types/node) - TypeScript definitions for Node.js
-   -  `pnpm install -D @types/node`
+   -  `pnpm add -D @types/node`
 
 ### Installing
 
